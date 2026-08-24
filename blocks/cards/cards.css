@@ -10,6 +10,8 @@
 .cards > ul > li {
   border: 1px solid #dadada;
   background-color: #7692FF;
+  color: #FFFFFF;
+>>>>>>> 1c9efa9 (feat: add block updates)
 }
 
 .cards .cards-card-body {
